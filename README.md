@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Vue, Node.js, Python, Javascript**
 
-- 📫 How to reach me **samnet.devs@gmail.com**
+- 📫 How to reach me **samnet.devs@gmail.com**/**sameergaikwad222@gmail.com**
 
 - ⚡ Fun fact **Favourite Skill ---->Swimming**
 
